@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on various ML Projects and learning NLP
 
-- 🌱 I’m currently learning Data Science, Machine Learning and Predictive Modelling 
+- 🌱 I’m currently interested in fields like Data Science, Machine Learning and Predictive Modelling 
 
 - 💬 Talk to me about Python, Open Source, Projects 
 
