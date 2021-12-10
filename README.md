@@ -16,7 +16,9 @@
 
 - 🌱 I’m currently interested in fields like Data Science, Machine Learning and Predictive Modelling 
 
-- 💬 Talk to me about Python, Open Source, Projects 
+- 💬 Talk to me about Python, Open Source, Projects
+
+- Incoming Data Science Consultant at EXL
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/himanshu121'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
