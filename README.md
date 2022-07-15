@@ -9,9 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- Incoming Data Science Consultant at EXL
-
-- 🔭 I’m currently working on various ML Projects
+- 🔭 Data Analyst at American Express
 
 - 🌱 I’m currently interested in fields like Data Science, Machine Learning and Predictive Modelling 
 
