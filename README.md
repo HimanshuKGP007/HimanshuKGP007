@@ -30,6 +30,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<h2>Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/HimanshuKGP007/COV_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuKGP007&repo=COV_Project&theme=tokyonight&hide_border=true" alt="COV_Project" /></a>
+  <a href="https://github.com/HimanshuKGP007/HeartDiseaseAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuKGP007&repo=HeartDiseaseAnalysis&theme=tokyonight&hide_border=true" alt="HeartDiseaseAnalysis" /></a>
+  <a href="https://github.com/HimanshuKGP007/HotelBookingDemand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuKGP007&repo=HotelBookingDemand&theme=tokyonight&hide_border=true" alt="HotelBookingDemand" /></a>
+  <a href="https://github.com/HimanshuKGP007/Kaggle_Notebooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuKGP007&repo=Kaggle_Notebooks&theme=tokyonight&hide_border=true" alt="Kaggle_Notebooks" /></a>
+</p>
+
 <h2>GitHub Stats</h2>
 
 <p align="center">
@@ -39,6 +48,15 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKGP007&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<h2>Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HimanshuKGP007/HimanshuKGP007/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/HimanshuKGP007/HimanshuKGP007/output/github-snake.svg" />
+  </picture>
 </p>
 
 <h2>Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px"></h2>
