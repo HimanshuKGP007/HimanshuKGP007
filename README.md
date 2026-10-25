@@ -1,13 +1,14 @@
 <h1>Hello Fellow &lt; Developers /&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Himanshu+%F0%9F%91%8B;MBA+Student+%40+IIM+Bangalore;Ex-Data+Analyst+%40+American+Express;Data+Science+%7C+ML+%7C+Predictive+Modelling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Himanshu+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;MBA+Student+%40+IIM+Bangalore;Ex-American+Express" alt="Typing SVG" />
 </p>
 
 <h2>About Me</h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🤖 **Data Scientist | AI Engineer**
 - 🎓 Studying at **IIM Bangalore**
 - 💼 Previously **Data Analyst at American Express**
 - 🌱 Interested in Data Science, Machine Learning and Predictive Modelling
@@ -16,13 +17,23 @@
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,jupyter&theme=dark" alt="skills" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit--learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging_Face" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuKGP007&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuKGP007&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuKGP007&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
